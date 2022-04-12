@@ -8,7 +8,7 @@ if (number1 > number2 && number1 > number3)
 {
     System.Console.WriteLine($"number max {+number1}");
 }
-else if(number2 > number3)
+else if (number2 > number3)
 {
     System.Console.WriteLine($"number max {+number2}");
 }
